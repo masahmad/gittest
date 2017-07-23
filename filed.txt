@@ -2,5 +2,9 @@ file d
 
 Mr B
 
+<<<<<<< HEAD
 local change 2
 
+=======
+remote change 2
+>>>>>>> 96ac86f8a613498218de3f18ad214947919363c4
